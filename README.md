@@ -31,13 +31,13 @@
 ---
 
 ## 📊 GitHub Stats:
-![Mickel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mickelpradeep&theme=radical&hide_border=true&include_all_commits=false&count_private=false)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mickelpradeep&layout=compact&theme=radical&hide_border=true)  
+![Mickel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mickel-pradeep-d&theme=radical&hide_border=true&include_all_commits=false&count_private=false)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mickel-pradeep-d&layout=compact&theme=radical&hide_border=true)  
 
 ---
 
 ## 🏅 GitHub Trophies:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mickelpradeep&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mickel-pradeep-d&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
 
 ---
 
